@@ -5,5 +5,6 @@ public class main {
         String str = stringBuilder.toString();
         System.out.println(stringBuilder);
         System.out.println(str);
+        System.out.println();
     }
 }
